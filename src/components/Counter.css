@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --color: #fff;
+    --background-color: #111111;
+}
+
+.main-div{
+    color: var(--color);
+    background: var(--background-color);
+    padding: 2rem;
+    text-align: center;
+}
+
+.main-div h1{
+    margin-bottom: 2rem;
+}
+
+.main-div button{
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 25px;
+    background: gray;
+    cursor: pointer;
+}
+
+.main-div button:hover{
+    color: #111111;
+    background: #fff;
+}
+
+.main-div button:focus{
+    color: #fff;
+    background: crimson;
+}
+
+.para{
+    margin-top: 5rem;
+}
