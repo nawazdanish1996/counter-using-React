@@ -40,3 +40,7 @@
 .para{
     margin-top: 5rem;
 }
+
+.para h3{
+    color: green;
+}

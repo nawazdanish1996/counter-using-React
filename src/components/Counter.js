@@ -48,6 +48,7 @@ const Counter = (props) => {
                 <p>Increment: Highest order is 10</p>
                 <p>Decrement: below 0 will not be decrement like -1</p>
                 <p>Reset: After click on reset button will be reset the value</p>
+                <h3>Nawaz Danish</h3>
             </div>
         </div>
     )
